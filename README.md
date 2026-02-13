@@ -14,8 +14,7 @@ Spring Boot (Backend) and React (Frontend) to predict Mutual Fund NAV trends.
 
 ## 🛠 Tech Stack
 Frontend: React, Recharts  
-Backend: Spring Boot (Java)  
-Database: MySQL  
+Backend: Spring Boot (Java)    
 Machine Learning: Java-based ML models  
 
 ## 📊 How to Run
@@ -31,8 +30,8 @@ Machine Learning: Java-based ML models
    npm install
    npm start
 
-## 📷 Screenshots
-[Landing page]<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/3088b4a3-1c0e-43bc-b7e8-9cb7c6b13f03" />
+## 📷 Landing Page
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/3088b4a3-1c0e-43bc-b7e8-9cb7c6b13f03" />
 
 
 ## 👨‍💻 Author
