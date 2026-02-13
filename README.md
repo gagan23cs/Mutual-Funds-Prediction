@@ -32,7 +32,8 @@ Machine Learning: Java-based ML models
    npm start
 
 ## 📷 Screenshots
-![ScreenShots](https://github.com/user-attachments/assets/e92978a8-e289-4c68-b5af-5a3d85083315)
+[Landing page]<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/3088b4a3-1c0e-43bc-b7e8-9cb7c6b13f03" />
+
 
 ## 👨‍💻 Author
 GAGAN V
